@@ -15,10 +15,15 @@ For this particular assignment. Pandas library was used to create a summary Data
 - Urban city type has the lowest average fare per ride and the lowest average fare per driver. 
 - Suburban city is in the middle with total rides, total drivers, total fares, average fare per ride, and average fare per driver. 
 
+![DataFrame_City_Type](https://user-images.githubusercontent.com/84931545/126914309-8942523e-6f42-402e-a722-cf429d08c655.PNG)
+
 
 ### Multiple-line graph for each city type
 
 Urban city type observed to have the highest total fare even on a weekly basis, while rural city type has the lowest total fare by week. Besides a drop in fare from all city types in the last week of February, there are no similar fluctuations among the 3 city types.
+
+![PyBer_fare_summary](https://user-images.githubusercontent.com/84931545/126914313-f6193033-d368-4de4-89de-66f9b7c6ade7.png)
+
 
 ## Summary
 
